@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\SimpleGame\bin\Debug\SimpleGame.exe.config
+D:\Files\CS Projects\LAMOP\SimpleGame\bin\Debug\SimpleGame.exe
+D:\Files\CS Projects\LAMOP\SimpleGame\bin\Debug\SimpleGame.pdb
+D:\Files\CS Projects\LAMOP\SimpleGame\obj\Debug\SimpleGame.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\SimpleGame\obj\Debug\SimpleGame.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\SimpleGame\obj\Debug\SimpleGame.exe
+D:\Files\CS Projects\LAMOP\SimpleGame\obj\Debug\SimpleGame.pdb
