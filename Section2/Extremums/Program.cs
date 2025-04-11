@@ -18,24 +18,29 @@ namespace Extremums
                 numbers[i] = random.Next(rightRandomBorder);
                 Console.Write($"{numbers[i]} ");
             }
+
             Console.WriteLine();
 
             Console.WriteLine("Локальные максимумы");
 
             if (numbers.Length == 1)
             {
-                Console.WriteLine(numbers[0]);
+                Console.WriteLine($"Локальный масимум всего один: {numbers[0]}");
                 return;
             }
 
-            if (numbers.Length == 0) return; //
+            if (numbers.Length == 0)
+            {
+                Console.WriteLine("Длина массива = 0, локальных максимумов НЕТ!");
+            }
 
             if (numbers[0] > numbers[1])
                 Console.Write($"{numbers[0]} ");
 
             for (int i = 1; i < numbers.Length - 1; i++)
             {
-                if (numbers[i - 1] < numbers[i] && numbers[i] > numbers[i + 1])//
+                if (numbers[i - 1] < numbers[i] && 
+                    numbers[i] > numbers[i + 1])
                     Console.Write($"{numbers[i]} ");
             }
 

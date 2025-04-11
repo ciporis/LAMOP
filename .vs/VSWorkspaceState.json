@@ -7,8 +7,9 @@
     "\\Section2",
     "\\Section2\\ArrayElements",
     "\\Section2\\DynamicArray",
-    "\\Section2\\Extremums"
+    "\\Section2\\Extremums",
+    "\\Section2\\MaximumSearch"
   ],
-  "SelectedNode": "\\Section2\\ArrayElements\\SimpleTasks.sln",
+  "SelectedNode": "\\Section2\\Extremums\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
