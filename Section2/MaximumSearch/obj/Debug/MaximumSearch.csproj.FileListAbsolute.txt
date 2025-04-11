@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section2\MaximumSearch\bin\Debug\MaximumSearch.exe.config
+D:\Files\CS Projects\LAMOP\Section2\MaximumSearch\bin\Debug\MaximumSearch.exe
+D:\Files\CS Projects\LAMOP\Section2\MaximumSearch\bin\Debug\MaximumSearch.pdb
+D:\Files\CS Projects\LAMOP\Section2\MaximumSearch\obj\Debug\MaximumSearch.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section2\MaximumSearch\obj\Debug\MaximumSearch.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section2\MaximumSearch\obj\Debug\MaximumSearch.exe
+D:\Files\CS Projects\LAMOP\Section2\MaximumSearch\obj\Debug\MaximumSearch.pdb

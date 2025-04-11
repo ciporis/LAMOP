@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Section1",
+    "\\Section1\\CurrenciesConvertation",
     "\\Section2",
     "\\Section2\\ArrayElements"
   ],
-  "SelectedNode": "\\Section1",
+  "SelectedNode": "\\Section2\\ArrayElements\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
