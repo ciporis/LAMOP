@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Section2",
+    "\\Section2\\ArrayElements"
   ],
-  "SelectedNode": "\\SimpleGame",
+  "SelectedNode": "\\Section1",
   "PreviewInSolutionExplorer": false
 }
