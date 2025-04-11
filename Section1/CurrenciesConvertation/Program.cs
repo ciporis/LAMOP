@@ -43,7 +43,7 @@ namespace CurrenciesConvertation
         }
     }
 
-    public class UserWallet
+    public class UserWallet //
     {
         private Dictionary<string, Dictionary<string, double>> _balances = new Dictionary<string, Dictionary<string, double>>
         {
@@ -55,7 +55,7 @@ namespace CurrenciesConvertation
             },
             ["usd"] = new Dictionary<string, double>
             {
-                ["rub"] = 0.0116,
+                ["rub"] = 0.0116, //
                 ["eur"] = 1.04,
                 ["amount"] = 0
             },
@@ -69,7 +69,7 @@ namespace CurrenciesConvertation
 
         public UserWallet(double rubblesBalance, double dollarsBalance, double eurosBalance)
         {
-            _balances["rub"]["amount"] = rubblesBalance;
+            _balances["rub"]["amount"] = rubblesBalance;//
             _balances["usd"]["amount"] = dollarsBalance;
             _balances["eur"]["amount"] = eurosBalance;
         }

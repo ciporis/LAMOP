@@ -9,14 +9,15 @@ namespace DynamicArray
         {
             int[] userNumbers = new int[0];
 
-            const string StopWord = "exit";
+            const string StopCommand = "exit";
             const string SumCommand = "sum";
 
             bool isWorking = true;
 
             while (isWorking)
             {
-                Console.WriteLine("Введите число/sum/exit");
+                Console.WriteLine($"Введите число или одну из комманд:" +
+                    $"\n{SumCommand} или {StopCommand}");
                 string userInput = Console.ReadLine();
 
                 if (userInput == StopWord)
@@ -24,7 +25,6 @@ namespace DynamicArray
                     isWorking = false;
                     break;
                 }
-                    
 
                 if (userInput == SumCommand)
                 {
@@ -32,7 +32,8 @@ namespace DynamicArray
                 }
                 else
                 {
-                    userNumbers = ArrayAppend(userNumbers, Convert.ToInt32(userInput));
+                    ArrayAppend(ref userNumbers, Convert.ToInt32(userInput));
+
                     for (int i = 0; i < userNumbers.Length; i++)
                     {
                         Console.Write($"{userNumbers[i]} ");
@@ -41,7 +42,7 @@ namespace DynamicArray
             }
         }
 
-        private static int[] ArrayAppend(int[] array, int number)
+        private static void ArrayAppend(ref int[] array, int number)
         {
             int[] resizedArray = new int[array.Length + 1];
 
@@ -50,7 +51,7 @@ namespace DynamicArray
 
             resizedArray[resizedArray.Length - 1] = number;
 
-            return resizedArray;
+            array = resizedArray;
         }
     }
 }

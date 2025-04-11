@@ -21,7 +21,7 @@ namespace MenuInConsole
                 { DisplaySecondMessageCommand, DisplaySecondMessage },
             };
 
-            string[] commmandsForUser =
+            string[] commmandsForUser = new string[]
             {
                 $"{ShutDownCommand}) Завершить работу",
                 $"{ClearConsoleCommand}) Очистить консоль",
@@ -35,10 +35,10 @@ namespace MenuInConsole
             foreach (var command in commmandsForUser)
                 Console.WriteLine($"{command}");
 
-            while (true)
+            while (true)//
             {
                 string methodNumber = Console.ReadLine();
-                if (methodNumber == ShutDownCommand)
+                if (methodNumber == ShutDownCommand)//
                     break;
                 methods[methodNumber].Invoke();
             }

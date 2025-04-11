@@ -3,11 +3,12 @@
     "",
     "\\Section1",
     "\\Section1\\CurrenciesConvertation",
+    "\\Section1\\MenuInConsole 1.4",
     "\\Section2",
     "\\Section2\\ArrayElements",
-    "\\Section2\\Extremums",
-    "\\Section2\\MaximumSearch"
+    "\\Section2\\DynamicArray",
+    "\\Section2\\Extremums"
   ],
-  "SelectedNode": "\\Section2\\Extremums\\Program.cs",
+  "SelectedNode": "\\Section2\\ArrayElements\\SimpleTasks.sln",
   "PreviewInSolutionExplorer": false
 }
