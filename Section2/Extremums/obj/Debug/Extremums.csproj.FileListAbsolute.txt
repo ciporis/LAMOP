@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section2\Extremums\bin\Debug\Extremums.exe.config
+D:\Files\CS Projects\LAMOP\Section2\Extremums\bin\Debug\Extremums.exe
+D:\Files\CS Projects\LAMOP\Section2\Extremums\bin\Debug\Extremums.pdb
+D:\Files\CS Projects\LAMOP\Section2\Extremums\obj\Debug\Extremums.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section2\Extremums\obj\Debug\Extremums.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section2\Extremums\obj\Debug\Extremums.exe
+D:\Files\CS Projects\LAMOP\Section2\Extremums\obj\Debug\Extremums.pdb

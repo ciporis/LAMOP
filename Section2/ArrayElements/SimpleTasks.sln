@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayElements", "ArrayEleme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSearch", "..\MaximumSearch\MaximumSearch.csproj", "{4430D721-C03B-42CD-BD77-A064DAA355D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extremums", "..\Extremums\Extremums.csproj", "{9FCA4533-87C1-418E-8CFC-22A237F2469F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4430D721-C03B-42CD-BD77-A064DAA355D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4430D721-C03B-42CD-BD77-A064DAA355D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4430D721-C03B-42CD-BD77-A064DAA355D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCA4533-87C1-418E-8CFC-22A237F2469F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCA4533-87C1-418E-8CFC-22A237F2469F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCA4533-87C1-418E-8CFC-22A237F2469F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCA4533-87C1-418E-8CFC-22A237F2469F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
