@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section2\DynamicArray\bin\Debug\DynamicArray.exe.config
+D:\Files\CS Projects\LAMOP\Section2\DynamicArray\bin\Debug\DynamicArray.exe
+D:\Files\CS Projects\LAMOP\Section2\DynamicArray\bin\Debug\DynamicArray.pdb
+D:\Files\CS Projects\LAMOP\Section2\DynamicArray\obj\Debug\DynamicArray.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section2\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section2\DynamicArray\obj\Debug\DynamicArray.exe
+D:\Files\CS Projects\LAMOP\Section2\DynamicArray\obj\Debug\DynamicArray.pdb
