@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section1\CurrencyConvertation_1_5\obj\Debug\CurrencyConvertation_1_5.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section1\CurrencyConvertation_1_5\obj\Debug\CurrencyConvertation_1_5.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section1\CurrencyConvertation_1_5\bin\Debug\CurrencyConvertation_1_5.exe.config
+D:\Files\CS Projects\LAMOP\Section1\CurrencyConvertation_1_5\bin\Debug\CurrencyConvertation_1_5.exe
+D:\Files\CS Projects\LAMOP\Section1\CurrencyConvertation_1_5\bin\Debug\CurrencyConvertation_1_5.pdb
+D:\Files\CS Projects\LAMOP\Section1\CurrencyConvertation_1_5\obj\Debug\CurrencyConvertation_1_5.exe
+D:\Files\CS Projects\LAMOP\Section1\CurrencyConvertation_1_5\obj\Debug\CurrencyConvertation_1_5.pdb
