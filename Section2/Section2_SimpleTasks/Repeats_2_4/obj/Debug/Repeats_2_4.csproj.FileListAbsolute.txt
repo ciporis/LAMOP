@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\Repeats_2_4\obj\Debug\Repeats_2_4.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\Repeats_2_4\obj\Debug\Repeats_2_4.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\Repeats_2_4\bin\Debug\Repeats_2_4.exe.config
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\Repeats_2_4\bin\Debug\Repeats_2_4.exe
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\Repeats_2_4\bin\Debug\Repeats_2_4.pdb
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\Repeats_2_4\obj\Debug\Repeats_2_4.exe
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\Repeats_2_4\obj\Debug\Repeats_2_4.pdb
