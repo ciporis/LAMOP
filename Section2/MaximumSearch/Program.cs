@@ -14,7 +14,7 @@ namespace MaximumSearch
             Console.WriteLine("Введите кол-во столбцов матрицы");
             int matrixColumns = Convert.ToInt32(Console.ReadLine());
 
-            int[,] matrix = new int[matrixRows,matrixColumns];
+            int[,] matrix = new int[matrixRows, matrixColumns];
 
             Random random = new Random();
             int rightRandomBorder = 100;

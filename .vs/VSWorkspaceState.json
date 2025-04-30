@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Section1",
-    "\\Section2"
+    "\\Section1\\SimpleGame",
+    "\\Section2",
+    "\\Section2\\Section2_SimpleTasks",
+    "\\Section2\\Section2_SimpleTasks\\Repeats_2_4"
   ],
-  "SelectedNode": "\\Section1\\SimpleGame",
+  "SelectedNode": "\\Section1\\SimpleGame\\SimpleGame.sln",
   "PreviewInSolutionExplorer": false
 }

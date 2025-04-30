@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section1\PoweredTwo_1_9\bin\Debug\PoweredTwo_1_9.exe.config
+D:\Files\CS Projects\LAMOP\Section1\PoweredTwo_1_9\bin\Debug\PoweredTwo_1_9.exe
+D:\Files\CS Projects\LAMOP\Section1\PoweredTwo_1_9\bin\Debug\PoweredTwo_1_9.pdb
+D:\Files\CS Projects\LAMOP\Section1\PoweredTwo_1_9\obj\Debug\PoweredTwo_1_9.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section1\PoweredTwo_1_9\obj\Debug\PoweredTwo_1_9.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section1\PoweredTwo_1_9\obj\Debug\PoweredTwo_1_9.exe
+D:\Files\CS Projects\LAMOP\Section1\PoweredTwo_1_9\obj\Debug\PoweredTwo_1_9.pdb

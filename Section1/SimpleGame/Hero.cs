@@ -7,9 +7,9 @@ namespace SimpleGame
         private float _maxHealth;
         private float _maxMana;
 
-        private float _health;
         private float _mana;
         private float _damage;
+
         private float _fireBallStrength = 2.3f;
         private float _manaForFireBall = 14;
         private float _explosionStrength = 1.2f;
@@ -21,18 +21,28 @@ namespace SimpleGame
 
         public Hero(float health, float mana, float damage)
         {
-            _health = health;
+            Health = health;
             _mana = mana;
             _damage = damage;
 
-            _maxHealth = _health;
+            _maxHealth = Health;
             _maxMana = _mana;
+
+            IsAlive = true;
         }
+
+        public bool IsAlive { get; private set; }
+        public float Health { get; private set; }
 
         public void ApplyDamage(float damage)
         {
-            _health -= damage;
-            if (_health < 0) { Console.WriteLine("VSE CONETS GEROU"); };
+            Health -= damage;
+
+            if (Health < 0) 
+            { 
+                Console.WriteLine("VSE CONETS GEROU");
+                IsAlive = false;
+            }
         }
 
         public void Attack(Boss boss)
@@ -43,7 +53,11 @@ namespace SimpleGame
         public void FireBallAttack(Boss boss)
         {
             if(_manaForFireBall > _mana)
+            {
+                Console.WriteLine("NO MANA FOR THIS ACTION");
                 return;
+            }
+                
             boss.ApplyDamage(_damage * _fireBallStrength);
             _mana -= _manaForFireBall;
             _fireBallUsed = true;
@@ -54,6 +68,7 @@ namespace SimpleGame
             if (_fireBallUsed == false || _explosionUsed)
             {
                 _explosionUsed = false;
+                Console.WriteLine("YOU CAN'T USE THIS ACTION WITHOUT THE FIREBALL");
                 return;
             }
                
@@ -63,12 +78,15 @@ namespace SimpleGame
             boss.ApplyDamage(_damage * _explosionStrength);
         }
 
-        public void RestoreProperties()
+        public void RestoreProperties(Boss boss)
         {
             if (_propertiesRestoreCount <= 0)
+            {
+                Console.WriteLine("YOU HAVE NO CHANCES TO USE THIS ACTION");
                 return;
+            }
 
-            _health = _maxHealth;
+            Health = _maxHealth;
             _mana = _maxMana;
             _propertiesRestoreCount--;
         }

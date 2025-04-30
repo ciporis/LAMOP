@@ -30,6 +30,7 @@ namespace DynamicArray
                 {
                     Console.WriteLine(userNumbers.Sum());
                 }
+
                 else
                 {
                     ArrayAppend(ref userNumbers, Convert.ToInt32(userInput));
