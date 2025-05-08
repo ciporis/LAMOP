@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Section1",
+    "\\Section1\\PoweredTwo_1_9",
     "\\Section2",
     "\\Section2\\Section2_SimpleTasks",
-    "\\Section2\\Section2_SimpleTasks\\Repeats_2_4"
+    "\\Section2\\Section2_SimpleTasks\\BubbleSorting_2_5"
   ],
   "SelectedNode": "\\Section2\\Section2_SimpleTasks\\Section2_SimpleTasks.sln",
   "PreviewInSolutionExplorer": false

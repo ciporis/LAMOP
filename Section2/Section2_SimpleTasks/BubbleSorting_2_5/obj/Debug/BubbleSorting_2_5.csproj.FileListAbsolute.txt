@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BubbleSorting_2_5\bin\Debug\BubbleSorting_2_5.exe.config
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BubbleSorting_2_5\bin\Debug\BubbleSorting_2_5.exe
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BubbleSorting_2_5\bin\Debug\BubbleSorting_2_5.pdb
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BubbleSorting_2_5\obj\Debug\BubbleSorting_2_5.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BubbleSorting_2_5\obj\Debug\BubbleSorting_2_5.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BubbleSorting_2_5\obj\Debug\BubbleSorting_2_5.exe
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BubbleSorting_2_5\obj\Debug\BubbleSorting_2_5.pdb

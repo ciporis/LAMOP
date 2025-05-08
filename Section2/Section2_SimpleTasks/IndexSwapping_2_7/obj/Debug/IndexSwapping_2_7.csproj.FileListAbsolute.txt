@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\IndexSwapping_2_7\bin\Debug\IndexSwapping_2_7.exe.config
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\IndexSwapping_2_7\bin\Debug\IndexSwapping_2_7.exe
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\IndexSwapping_2_7\bin\Debug\IndexSwapping_2_7.pdb
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\IndexSwapping_2_7\obj\Debug\IndexSwapping_2_7.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\IndexSwapping_2_7\obj\Debug\IndexSwapping_2_7.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\IndexSwapping_2_7\obj\Debug\IndexSwapping_2_7.exe
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\IndexSwapping_2_7\obj\Debug\IndexSwapping_2_7.pdb

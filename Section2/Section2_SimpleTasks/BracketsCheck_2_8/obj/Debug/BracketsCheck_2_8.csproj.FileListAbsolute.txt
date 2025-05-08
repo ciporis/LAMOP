@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BracketsCheck_2_8\bin\Debug\BracketsCheck_2_8.exe.config
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BracketsCheck_2_8\bin\Debug\BracketsCheck_2_8.exe
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BracketsCheck_2_8\bin\Debug\BracketsCheck_2_8.pdb
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BracketsCheck_2_8\obj\Debug\BracketsCheck_2_8.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BracketsCheck_2_8\obj\Debug\BracketsCheck_2_8.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BracketsCheck_2_8\obj\Debug\BracketsCheck_2_8.exe
+D:\Files\CS Projects\LAMOP\Section2\Section2_SimpleTasks\BracketsCheck_2_8\obj\Debug\BracketsCheck_2_8.pdb
