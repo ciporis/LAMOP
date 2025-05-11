@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section3\Tasks\Carts_3_4\bin\Debug\Carts_3_4.exe.config
+D:\Files\CS Projects\LAMOP\Section3\Tasks\Carts_3_4\bin\Debug\Carts_3_4.exe
+D:\Files\CS Projects\LAMOP\Section3\Tasks\Carts_3_4\bin\Debug\Carts_3_4.pdb
+D:\Files\CS Projects\LAMOP\Section3\Tasks\Carts_3_4\obj\Debug\Map_3_4.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section3\Tasks\Carts_3_4\obj\Debug\Map_3_4.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section3\Tasks\Carts_3_4\obj\Debug\Carts_3_4.exe
+D:\Files\CS Projects\LAMOP\Section3\Tasks\Carts_3_4\obj\Debug\Carts_3_4.pdb

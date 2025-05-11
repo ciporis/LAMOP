@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section4\Tasks\Queue_4_1\bin\Debug\Queue_4_1.exe.config
+D:\Files\CS Projects\LAMOP\Section4\Tasks\Queue_4_1\bin\Debug\Queue_4_1.exe
+D:\Files\CS Projects\LAMOP\Section4\Tasks\Queue_4_1\bin\Debug\Queue_4_1.pdb
+D:\Files\CS Projects\LAMOP\Section4\Tasks\Queue_4_1\obj\Debug\Queue_4_1.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section4\Tasks\Queue_4_1\obj\Debug\Queue_4_1.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section4\Tasks\Queue_4_1\obj\Debug\Queue_4_1.exe
+D:\Files\CS Projects\LAMOP\Section4\Tasks\Queue_4_1\obj\Debug\Queue_4_1.pdb

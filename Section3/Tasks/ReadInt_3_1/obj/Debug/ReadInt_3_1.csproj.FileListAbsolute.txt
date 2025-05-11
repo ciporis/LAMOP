@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section3\Tasks\ReadInt_3_1\bin\Debug\ReadInt_3_1.exe.config
+D:\Files\CS Projects\LAMOP\Section3\Tasks\ReadInt_3_1\bin\Debug\ReadInt_3_1.exe
+D:\Files\CS Projects\LAMOP\Section3\Tasks\ReadInt_3_1\bin\Debug\ReadInt_3_1.pdb
+D:\Files\CS Projects\LAMOP\Section3\Tasks\ReadInt_3_1\obj\Debug\ReadInt_3_1.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section3\Tasks\ReadInt_3_1\obj\Debug\ReadInt_3_1.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section3\Tasks\ReadInt_3_1\obj\Debug\ReadInt_3_1.exe
+D:\Files\CS Projects\LAMOP\Section3\Tasks\ReadInt_3_1\obj\Debug\ReadInt_3_1.pdb

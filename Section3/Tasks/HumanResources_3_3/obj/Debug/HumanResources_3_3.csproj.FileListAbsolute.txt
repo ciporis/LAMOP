@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section3\Tasks\HumanResources_3_3\bin\Debug\HumanResources_3_3.exe.config
+D:\Files\CS Projects\LAMOP\Section3\Tasks\HumanResources_3_3\bin\Debug\HumanResources_3_3.exe
+D:\Files\CS Projects\LAMOP\Section3\Tasks\HumanResources_3_3\bin\Debug\HumanResources_3_3.pdb
+D:\Files\CS Projects\LAMOP\Section3\Tasks\HumanResources_3_3\obj\Debug\HumanResources_3_3.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section3\Tasks\HumanResources_3_3\obj\Debug\HumanResources_3_3.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section3\Tasks\HumanResources_3_3\obj\Debug\HumanResources_3_3.exe
+D:\Files\CS Projects\LAMOP\Section3\Tasks\HumanResources_3_3\obj\Debug\HumanResources_3_3.pdb

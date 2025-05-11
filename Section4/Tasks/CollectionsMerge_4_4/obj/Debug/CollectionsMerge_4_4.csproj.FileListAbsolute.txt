@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section4\Tasks\CollectionsMerge_4_4\bin\Debug\CollectionsMerge_4_4.exe.config
+D:\Files\CS Projects\LAMOP\Section4\Tasks\CollectionsMerge_4_4\bin\Debug\CollectionsMerge_4_4.exe
+D:\Files\CS Projects\LAMOP\Section4\Tasks\CollectionsMerge_4_4\bin\Debug\CollectionsMerge_4_4.pdb
+D:\Files\CS Projects\LAMOP\Section4\Tasks\CollectionsMerge_4_4\obj\Debug\CollectionsMerge_4_4.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section4\Tasks\CollectionsMerge_4_4\obj\Debug\CollectionsMerge_4_4.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section4\Tasks\CollectionsMerge_4_4\obj\Debug\CollectionsMerge_4_4.exe
+D:\Files\CS Projects\LAMOP\Section4\Tasks\CollectionsMerge_4_4\obj\Debug\CollectionsMerge_4_4.pdb
