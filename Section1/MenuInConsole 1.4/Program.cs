@@ -12,7 +12,7 @@ namespace MenuInConsole
             const string DisplayRandomNumberCommand = "2";
             const string DisplayFirstMessageCommand = "3";
             const string DisplaySecondMessageCommand = "4";
-            
+
             bool isWorking = true;
 
             Random random = new Random();
@@ -48,11 +48,11 @@ namespace MenuInConsole
                     isWorking = false;
                     break;
                 }
-                    
+
                 methods[methodNumber].Invoke();
             }
         }
-        
+
         private static void ClearConsole()
         {
             Console.Clear();

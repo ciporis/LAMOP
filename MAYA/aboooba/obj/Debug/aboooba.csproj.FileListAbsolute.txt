@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\MAYA\aboooba\bin\Debug\aboooba.exe.config
+D:\Files\CS Projects\LAMOP\MAYA\aboooba\bin\Debug\aboooba.exe
+D:\Files\CS Projects\LAMOP\MAYA\aboooba\bin\Debug\aboooba.pdb
+D:\Files\CS Projects\LAMOP\MAYA\aboooba\obj\Debug\aboooba.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\MAYA\aboooba\obj\Debug\aboooba.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\MAYA\aboooba\obj\Debug\aboooba.exe
+D:\Files\CS Projects\LAMOP\MAYA\aboooba\obj\Debug\aboooba.pdb

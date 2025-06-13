@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\Section5\OOPTasks\bin\Debug\OOPTasks.exe.config
+D:\Files\CS Projects\LAMOP\Section5\OOPTasks\bin\Debug\OOPTasks.exe
+D:\Files\CS Projects\LAMOP\Section5\OOPTasks\bin\Debug\OOPTasks.pdb
+D:\Files\CS Projects\LAMOP\Section5\OOPTasks\obj\Debug\FirstClass_5_0.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\Section5\OOPTasks\obj\Debug\FirstClass_5_0.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\Section5\OOPTasks\obj\Debug\OOPTasks.exe
+D:\Files\CS Projects\LAMOP\Section5\OOPTasks\obj\Debug\OOPTasks.pdb

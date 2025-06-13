@@ -1,0 +1,7 @@
+D:\Files\CS Projects\LAMOP\MAYA\2.1\bin\Debug\2.1.exe.config
+D:\Files\CS Projects\LAMOP\MAYA\2.1\bin\Debug\2.1.exe
+D:\Files\CS Projects\LAMOP\MAYA\2.1\bin\Debug\2.1.pdb
+D:\Files\CS Projects\LAMOP\MAYA\2.1\obj\Debug\2.1.csproj.AssemblyReference.cache
+D:\Files\CS Projects\LAMOP\MAYA\2.1\obj\Debug\2.1.csproj.CoreCompileInputs.cache
+D:\Files\CS Projects\LAMOP\MAYA\2.1\obj\Debug\2.1.exe
+D:\Files\CS Projects\LAMOP\MAYA\2.1\obj\Debug\2.1.pdb

@@ -2,16 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Section1",
-    "\\Section1\\MenuInConsole 1.4",
     "\\Section2",
-    "\\Section2\\ArrayElements",
-    "\\Section2\\ArrayElements_2.0",
-    "\\Section2\\Section2_SimpleTasks",
+    "\\Section2\\DynamicArray",
     "\\Section3",
-    "\\Section3\\Tasks",
     "\\Section4",
-    "\\Section4\\Tasks"
+    "\\Section5",
+    "\\Section5\\CardsDeck_5_3",
+    "\\Section5\\OOPTasks"
   ],
-  "SelectedNode": "\\Section4\\Tasks\\Tasks.sln",
   "PreviewInSolutionExplorer": false
 }
