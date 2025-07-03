@@ -1,27 +1,28 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace Shop_5_5
-{
+namespace Shop_5_5{
     internal class Customer
     {
-        private List<Product> _products = new List<Product>();
-
-        public void Buy(Seller seller, int productNumber)
+        public Customer(int balance, Product[] producsts)
         {
-            float price = seller.GetProductPrice(productNumber);
+            Balance = balance;
 
-            if(price > Balance)
+            foreach (Product product in producsts)
             {
-                Console.WriteLine("No enought money");
-                return;
+                Total += product.Price;
             }
 
-            int productIndex = productNumber - 1;
-            seller.Sell(productIndex);
-            Balance -= price;
+            Products = producsts;
         }
 
-        public float Balance { get; private set; }
+        public void Buy(Product product)
+        {
+            Balance -= product.Price;
+        }
+
+        public int Balance { get; private set; }
+        public Product[] Products { get; private set; }
+        public int ProductsCount => Products.Length;
+        public int Total { get; private set; }
     }
 }

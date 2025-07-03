@@ -3,12 +3,14 @@
     "",
     "\\Section1",
     "\\Section2",
-    "\\Section2\\DynamicArray",
+    "\\Section2\\Section2_SimpleTasks",
     "\\Section3",
+    "\\Section3\\Tasks",
+    "\\Section3\\Tasks\\Carts_3_4",
     "\\Section4",
-    "\\Section5",
-    "\\Section5\\CardsDeck_5_3",
-    "\\Section5\\OOPTasks"
+    "\\Section4\\Tasks",
+    "\\Section5"
   ],
+  "SelectedNode": "\\Section3\\Tasks\\Carts_3_4\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

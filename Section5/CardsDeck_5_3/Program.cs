@@ -6,38 +6,17 @@ namespace CardsDeck_5_3
     {
         static void Main(string[] args)
         {
-            string[] cardsValues =     
-            { 
-                "6", "7", "8", "9", "10", 
-                "Jack", "Queen", "King", "Ace" 
-            };
-
-            string[] suitmarks =
-            {
-                "clubs",
-                "spades",
-                "hearts",
-                "diamonds",
-            };
+            CardsDeckFactory cardsDeckFactory = new CardsDeckFactory();
 
             bool isWorking = true;
 
-            var cardDeck = new CardsDeck();
+            CardsDeck cardsDeck = cardsDeckFactory.CreateStandartDeck();
             var croupier = new Croupier();
             var player = new Player();
 
-            foreach (string suitmark in suitmarks)
-            {
-                foreach (string value in cardsValues)
-                {
-                    Card card = new Card(suitmark, value);
-                    cardDeck.AddCard(card);
-                }
-            }
-
             while (isWorking)
             {
-                if (cardDeck.IsEmpty)
+                if (cardsDeck.IsEmpty)
                 {
                     Console.WriteLine("That's it, the deck is empty");
                     isWorking = false;
@@ -49,7 +28,7 @@ namespace CardsDeck_5_3
 
                 while (canParseUserInput == false || 
                     result < 0 || 
-                    result > cardDeck.DeckLength)
+                    result > cardsDeck.DeckLength)
                 {
                     Console.WriteLine("Input a correct numer please:");
                     canParseUserInput = int.TryParse(Console.ReadLine(), out result);
@@ -59,7 +38,7 @@ namespace CardsDeck_5_3
 
                 for (int i = 0; i < playerCardsCount; i++)
                 {
-                    Card randomCard = cardDeck.GetRandomCard();
+                    Card randomCard = cardsDeck.GetRandomCard();
                     croupier.GiveCard(randomCard, player);
                 }
 

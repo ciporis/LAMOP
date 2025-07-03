@@ -10,7 +10,9 @@ namespace Extremums
             Random random = new Random();
             int rightRandomBorder = 10;
 
-            int[] numbers = new int[30];
+            int arrayLength = 30;
+
+            int[] numbers = new int[arrayLength];
             List<int> localMaximums = new List<int>();
 
             for (int i = 0; i < numbers.Length; i++)
